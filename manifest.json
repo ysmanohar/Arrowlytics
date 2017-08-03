@@ -1,0 +1,7 @@
+{
+  "name": "Arrowlytics",
+  "short_name": "Arrowlytics",
+  "description": "This Application is a benchmarking tool",
+  "start_url": "/",
+  "display": "standalone"
+}
